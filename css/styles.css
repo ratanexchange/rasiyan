@@ -315,8 +315,8 @@ header.large .brand {
 #teaser {
     height: 600px;
     padding: 60px 0;
-    background-color: #06038D;
-    background:#06038D;
+    background-color: orange;
+    background:orange;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@mainColor', endColorstr='@mainColor', GradientType=0);
 }
 
